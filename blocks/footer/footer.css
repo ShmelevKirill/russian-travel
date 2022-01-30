@@ -8,26 +8,26 @@
 
 @media screen and (max-width: 1024px) {
     .footer {
-      max-width: calc(100% - 96px);
+        max-width: calc(100% - 96px);
     }
 }
 
 @media screen and (max-width: 768px) {
     .footer {
-      max-width: calc(100% - 48px);
+        max-width: calc(100% - 48px);
     }
 }
 
 @media (max-width: 425px) {
     .footer {
-      display: grid;
+        display: grid;
     }
   
 }
 
 @media screen and (max-width: 320px) {
-  .footer {
-    max-width: calc(100% - 32px);
-    display: block;
+    .footer {
+        max-width: calc(100% - 32px);
+        display: block;
   }
 }

@@ -31,18 +31,18 @@
 
 @media screen and (max-width: 1024px) {
     .cover__overlay {
-      padding: 195px 232px;
+        padding: 195px 232px;
   }
 }
 
 @media screen and (max-width: 768px) {
     .cover__overlay {
-      padding: 115px 104px;
+        padding: 115px 104px;
   }
 }
 
 @media (max-width: 425px) {
     .cover__overlay {
-      padding: 33px 16px;
+        padding: 33px 16px;
   }
 }
