@@ -5,9 +5,8 @@
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 632px) {
     .footer__copyright {
-        font-size: 14px;
         line-height: 14px;
         padding-top: 48px;
     }

@@ -1,6 +1,8 @@
 .cover__overlay {
     background-image: url(../../../images/cover-trains.jpg);
+    background-position: center;
     display: flex;
+    flex-direction: column;
     box-sizing: border-box;
     background-size: cover;
     max-width: 1184px;
@@ -29,19 +31,19 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1126px) {
     .cover__overlay {
         padding: 195px 232px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 968px) {
     .cover__overlay {
         padding: 115px 104px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 710px) {
     .cover__overlay {
         padding: 33px 16px;
   }

@@ -5,17 +5,26 @@
     margin: 0 0 80px 0;
 }
 
+.place:last-child {
+    margin: 0;
+}
+
 @media screen and (max-width: 1024px) {
     .place {
         gap: 48px 32px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 882px) {
     .place {
         gap: 48px 28px;
-        grid-template-columns: repeat(auto-fit, minmax(238px, 1fr));
-        margin: 0 0 73px;
+        margin: 0 0 72px 0;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .place {
+        grid-template-columns: 1fr;
     }
 }
 
