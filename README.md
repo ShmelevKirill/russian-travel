@@ -18,4 +18,4 @@
 
 **Готовый проект**
 
-* [(https://shmelevkirill.github.io/russian-travel/)
+* https://shmelevkirill.github.io/russian-travel/
