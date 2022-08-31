@@ -1,15 +1,20 @@
 # Проект: Путешествия по России
 
-## Главные достопримечательности:
-* Куршская коса
-* Кольский
-* Алтай
-* Байкал
-* Карелия
+Одностраничный сайт про путешествия.
 
-**О проекте**
+## Технологический стек:
+* HTML5, 
+* CSS3, 
+* Flexbox, 
+* Grid Layout,
+* Adaptive layout; 
+* Positioning Elements, 
+* BEM Methodology, 
+* File Structure and File Paths (Nested BEM), 
+* Git, 
+* Figma, 
 
-В данном проекте мы рассмотрели значимые туристические места на территории России.
+[Макет в "Figma"](https://www.figma.com/file/w3Bb1v9Vq08lIoiIYLPegP/gotrip7?node-id=0%3A1)
 
 **Готовый проект**
 
