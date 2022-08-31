@@ -12,7 +12,7 @@
 * BEM Methodology, 
 * File Structure and File Paths (Nested BEM), 
 * Git, 
-* Figma, 
+* Figma;
 
 [Макет в "Figma"](https://www.figma.com/file/w3Bb1v9Vq08lIoiIYLPegP/gotrip7?node-id=0%3A1)
 
