@@ -1,20 +1,27 @@
 # Проект: Путешествия по России
 
-Одностраничный сайт про путешествия.
+## Описание проекта
+Проект посвящен путешествиям по России.
 
-## Технологический стек:
-* HTML5, 
-* CSS3, 
-* Flexbox, 
-* Grid Layout,
-* Adaptive layout; 
-* Positioning Elements, 
-* BEM Methodology, 
-* File Structure and File Paths (Nested BEM), 
-* Git, 
-* Figma;
+## Функционал:
+- User eXperience (UX);
+- Адаптивный интерфейс для разных устройств.
 
-[Макет в "Figma"](https://www.figma.com/file/w3Bb1v9Vq08lIoiIYLPegP/gotrip7?node-id=0%3A1)
+## Стек технологий:
+- HTML5;
+- CSS3:
+  - Flexbox;
+  - Grid Layout;
+  - Positioning;
+  - Adaptive UI;
+  - Media Queries;
+- Методология БЭМ;
+- Фйловая структура Nested БЭМ;
+- Вёрстка по макету в Figma.
+
+## Макет Проектной работы в Figma:
+
+- [Макет 3](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile).
 
 **Готовый проект**
 
